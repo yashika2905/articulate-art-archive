@@ -39,8 +39,7 @@ export const Hero = () => {
               className="text-xl md:text-2xl text-muted-foreground font-medium animate-fade-in"
               style={{ animationDelay: "0.2s" }}
             >
-              Marketing Strategist | Content Creator | SEO Specialist | Business
-              Development Professional
+              Marketing Strategist | Content Creator | SEO Specialist | Content Writer
             </p>
 
             <div
